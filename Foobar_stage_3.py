@@ -139,3 +139,5 @@ def solution(m):
     return [int(i) for i in final]
 
 print(datetime.now() - starttime)
+
+'finished'
